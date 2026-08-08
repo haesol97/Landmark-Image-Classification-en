@@ -1,4 +1,6 @@
-![Landmark thumbnail](https://user-images.githubusercontent.com/100823210/184104413-4479c700-fbb4-4d17-acee-ff05a11fbb36.png)
+![Landmark Image Classification](thumbnail_en.png)
+
+> The original thumbnail was a photo with Korean title text overlaid on it. Since that exact photo isn't available to edit, a new original English banner was created for this repository instead.
 
 
 ## 📋 Introduction
@@ -19,6 +21,8 @@ The full dataset is 12TB, which is too large to work with for training, so I use
 - Image size: 4032 x 3024
 - Classes: 84
 - Split into training (12,396 images) and validation (1,504 images) sets
+
+> **Note on images below:** the result/chart images in this section are the original screenshots produced when the notebook was run. Regenerating them in English would require re-running the full training pipeline against the original landmark image dataset (48GB, not included in this repository). The surrounding text has been fully translated to explain what each image shows.
 
 ## 🎯 Results
 
